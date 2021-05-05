@@ -1,0 +1,29 @@
+{
+  "ad_banner": true,
+  "ad_link": "https://sketchub.in/dc_invite",
+  "ad_dialog": "Content us to blaw blaw",
+  "server_list":[
+    {
+      "id": 529293640045166602,
+      "title": "Sketchub",
+      "description": "Community for Sketchub users. We help each other in programming stuff especially in Sketchware",
+      "icon": "https://cdn.discordapp.com/icons/529293640045166602/a_eb4cf4c541f9ca0ce9f18eb1ff175188.gif",
+      "expiry_timestamp": 1622799992
+    },
+    {
+      "id": 529293640045166602,
+      "title": "Sketchub",
+      "description": "Community for Sketchub users. We help each other in programming stuff especially in Sketchware",
+      "icon": "https://cdn.discordapp.com/icons/529293640045166602/a_eb4cf4c541f9ca0ce9f18eb1ff175188.gif",
+      "expiry_timestamp": 1622799992
+    },
+    {
+      "id": 529293640045166602,
+      "title": "Sketchub",
+      "description": "Community for Sketchub users. We help each other in programming stuff especially in Sketchware",
+      "icon": "https://cdn.discordapp.com/icons/529293640045166602/a_eb4cf4c541f9ca0ce9f18eb1ff175188.gif",
+      "expiry_timestamp": 1622799992
+    }
+    
+  ]
+}
