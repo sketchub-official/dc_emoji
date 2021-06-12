@@ -5,6 +5,8 @@
   "api_categories": "https://emoji.gg/api?request=categories",
   "api_handpicked": "https://sketchub.in/dc_emoji/get_hpe.php",
   
+  "discord_server": "https://discord.gg/TACPRNefg2",
+  
   "show_servers": false,
   "ad_banner": true,
   "ad_link": "https://sketchub.in/dc_invite",
