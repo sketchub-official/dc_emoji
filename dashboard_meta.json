@@ -1,7 +1,9 @@
 {
+  "api": 
+  "show_servers": false,
   "ad_banner": true,
   "ad_link": "https://sketchub.in/dc_invite",
-  "ad_dialog": "Content us to blaw blaw",
+  "ad_dialog": "Description here",
   "server_list":[
     {
       "id": 529293640045166602,
