@@ -1,5 +1,10 @@
 {
-  "api": 
+  
+  "api_emojis": "https://emoji.gg/api",
+  "api_packs": "https://emoji.gg/api/packs",
+  "api_categories": "https://emoji.gg/api?request=categories",
+  "api_handpicked": "https://sketchub.in/dc_emoji/get_hpe.php",
+  
   "show_servers": false,
   "ad_banner": true,
   "ad_link": "https://sketchub.in/dc_invite",
